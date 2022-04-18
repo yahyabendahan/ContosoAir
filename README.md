@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/BENDAHANYAHIA/Yahya/_apis/build/status/yahyabendahan.ContosoAir?branchName=master)](https://dev.azure.com/BENDAHANYAHIA/Yahya/_build/latest?definitionId=2&branchName=master)
 
 # Microsoft.Github CI Demo
 
